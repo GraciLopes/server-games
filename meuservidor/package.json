@@ -1,0 +1,24 @@
+{
+    "name": "servidor",
+    "version": "1.0.0",
+    "description": "iniciando servidor games",
+    "main": "server.js",
+    "scripts": {
+        "test": "https://github.com/GraciLopes/server-games",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GraciLopes/server-games.git"
+    },
+    "author": "Graciela Lopes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GraciLopes/server-games/issues"
+    },
+    "homepage": "https://github.com/GraciLopes/server-games#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.4"
+    }
+}
